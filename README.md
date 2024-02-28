@@ -11,7 +11,7 @@ __________________________________________________________________
 | ----- | ------|
 | [Unit 1: Diploma Prerequisites](https://github.com/MahmoudMaher2/Mastering_Embedded_System_Online_Diploma) | ![image](https://progress-bar.dev/100/) |
 | [Unit 2: C Programming](https://github.com/MahmoudMaher2/Mastering_Embedded_System_Online_Diploma/tree/main/Unit_2_C_Programming) | ![image](https://progress-bar.dev/100/) |
-| [Unit 3: Embedded C](https://github.com/MahmoudMaher2/Mastering_Embedded_System_Online_Diploma) | ![image](https://progress-bar.dev/0/) |
+| [Unit 3: Embedded C](https://github.com/MahmoudMaher2/Mastering_Embedded_System_Online_Diploma) | ![image](https://progress-bar.dev/15) |
 | [Unit 4: System Architect](https://github.com/MahmoudMaher2/Mastering_Embedded_System_Online_Diploma) | ![image](https://progress-bar.dev/0/) |
 | [Unit 5: First Term Projects](https://github.com/MahmoudMaher2/Mastering_Embedded_System_Online_Diploma) | ![image](https://progress-bar.dev/0/) |
 __________________________________________________________________
